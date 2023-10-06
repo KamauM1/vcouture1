@@ -44,7 +44,7 @@ const SignIn = () => {
     }
   };
 
-  // Simulated authentication function (replace with your actual API call)
+    // Simulated authentication function (replace with your actual API call)
   const authenticateUser = async (formData) => {
     // Simulate an API call to authenticate the user
     // In a real app, you'd send a POST request to your backend with user credentials
